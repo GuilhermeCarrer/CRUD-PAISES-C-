@@ -142,8 +142,8 @@ namespace Teste
         private void Paises_Load(object sender, EventArgs e)
         {
            
-            // TODO: esta linha de código carrega dados na tabela 'crudpaisesDataSet1.paises'. Você pode movê-la ou removê-la conforme necessário.
-            this.paisesTableAdapter.Fill(this.crudpaisesDataSet1.paises);
+            
+            
 
         }
 
@@ -190,3 +190,4 @@ namespace Teste
         }
     }
 }
+
