@@ -1,0 +1,10 @@
+C:\Users\Roberto\source\repos\teste\Teste\bin\Debug\Teste.exe.config
+C:\Users\Roberto\source\repos\teste\Teste\bin\Debug\Teste.exe
+C:\Users\Roberto\source\repos\teste\Teste\bin\Debug\Teste.pdb
+C:\Users\Roberto\source\repos\teste\Teste\obj\Debug\Teste.csproj.AssemblyReference.cache
+C:\Users\Roberto\source\repos\teste\Teste\obj\Debug\Teste.Paises.resources
+C:\Users\Roberto\source\repos\teste\Teste\obj\Debug\Teste.Properties.Resources.resources
+C:\Users\Roberto\source\repos\teste\Teste\obj\Debug\Teste.csproj.GenerateResource.cache
+C:\Users\Roberto\source\repos\teste\Teste\obj\Debug\Teste.csproj.CoreCompileInputs.cache
+C:\Users\Roberto\source\repos\teste\Teste\obj\Debug\Teste.exe
+C:\Users\Roberto\source\repos\teste\Teste\obj\Debug\Teste.pdb
